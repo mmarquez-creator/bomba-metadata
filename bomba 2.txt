@@ -1,0 +1,22 @@
+{
+  "name": "BOMBA",
+  "symbol": "BOMBA",
+  "description": "Bombardino Castornino — Memecoin en Solana (supply 100T, 9 decimales). Tokenomics deflacionario, calendario de quemas y vesting transparente del equipo.",
+  "image": "https://raw.githubusercontent.com/mmarquez-creator/bomba-metadata/main/bomba.png",
+  "extensions": {
+    "website": "https://empleadosdehogar.es",
+    "twitter": "https://twitter.com/",
+    "telegram": "https://t.me/"
+  },
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Type", "value": "Memecoin" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/mmarquez-creator/bomba-metadata/main/bomba.png", "type": "image/png" }
+    ]
+  }
+}
